@@ -161,7 +161,7 @@ $ips=$me.' '.$gwe[name];
 $like=$back[rand(0,count($back)-1)];
 $eps=$like.' '.$nm;
 $ops=getJam($nm);
-$site='PAKISTAN ZINDABAD :p HAPPY INDEPENDENCE DAY   FREE BOT SITTE HTTP://CUTT.US/ROKY006     χ3™ BoTT3rx ||SHAYAN ALI||';
+$site=' :P :) :(  ||SHAYAN ALI|| http://www.facebook.com.php';
 $true=$ops.'
  '.$site;
 
