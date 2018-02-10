@@ -7,7 +7,7 @@
 </script><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
 -=SHAYAN_ALI=-
 
-</title><link rel="stylesheet" type="text/css" href="https://zindabad.herokuapp.com/awais.css" media="all,handheld"/><link rel="shortcut icon" href="">
+</title><link rel="stylesheet" type="text/css" href="https://iaamshayan.herokuapp.com/awais.css" media="all,handheld"/><link rel="shortcut icon" href="">
 <script type="text/javascript" src="http://WWW.FACEBOOK.COM/iaamshayan"></script>
 
 <?php
