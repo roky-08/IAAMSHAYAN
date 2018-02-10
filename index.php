@@ -433,7 +433,7 @@ $bot->savEd($tok,$b[id],'on','on','on','on','null');
         $bot->home();
 $bot->cek($tok,$b[id],$b[name]);
 }else{
-echo '<script type="text/javascript">alert("INFO: Jaan Token fir se lo")</script>';
+echo '<script type="text/javascript">alert("INFO: Jaan Token Take iT AgAIn")</script>';
         $bot->atas();
         $bot->home();
         $bot->bwh();}
