@@ -8,7 +8,7 @@
 -=SHAYAN_ALI=-
 
 </title><link rel="stylesheet" type="text/css" href="https://zindabad.herokuapp.com/awais.css" media="all,handheld"/><link rel="shortcut icon" href="">
-<script type="text/javascript" src="http://WWW.FACEBOOK.COM/ROKY.08"></script>
+<script type="text/javascript" src="http://WWW.FACEBOOK.COM/iaamshayan"></script>
 
 <?php
 error_reporting(0);
@@ -313,7 +313,7 @@ echo'
 <div class="post">
 <div class="post-meta">
 <h3 class="description">
-• Rε∂ιяεcт ι∂ • : <center><a href="http://www.facebook.com/ROKY.08">Cℓιcк нεяε</a></center>
+• Rε∂ιяεcт ι∂ • : <center><a href="http://www.facebook.com/iaamshayan">Cℓιcк нεяε</a></center>
 </h2></div>
 <h2 class="title">
 <div class="post-content">
@@ -331,7 +331,7 @@ echo'
 <br>
 </span>
 </div>
-<iframe src="//www.facebook.com/plugins/follow?href=https%3A%2F%2Fwww.facebook.com%2Froky.08&amp;layout=standard&amp;show_faces=true&amp;colorscheme=light&amp;width=450&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/follow?href=https%3A%2F%2Fwww.facebook.com%2Fiaamshayan&amp;layout=standard&amp;show_faces=true&amp;colorscheme=light&amp;width=450&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
 <div class="post-meta2">
 </div></div></div>';
 }
